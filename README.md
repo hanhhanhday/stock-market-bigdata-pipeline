@@ -1,6 +1,6 @@
 # Stock Market Big Data Pipeline
 
-Capstone project of the **Big Data & Analytics** course at **Samsung Innovation Campus** (06/2025 – 07/2025), built by team *SmallData* (5 members).
+Capstone project of the **Big Data & Analytics** course at **Samsung Innovation Campus** (05/2025 – 07/2025), built by team *SmallData* (5 members).
 
 The project collects Vietnamese stock market data from several sources, stores it in a **Hadoop HDFS data lake**, transforms it into a **star schema** and serves it to a **Power BI** dashboard. The data then feeds stock price forecasting and news sentiment models.
 
