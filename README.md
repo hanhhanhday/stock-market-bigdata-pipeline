@@ -60,6 +60,3 @@ The ML models and the Streamlit app are not included in this repository.
 4. Run `01_crawl_and_ingest.ipynb`, then `02_transform_to_star_schema.ipynb`.
 5. Open the `.pbit` template in Power BI Desktop and point it to your data source.
 
-## My role
-
-**Đinh Hồng Hạnh**: designed and built the Power BI dashboard on the star schema (DAX measures such as MA20/MA50, current price, trading value) and performed exploratory data analysis.
