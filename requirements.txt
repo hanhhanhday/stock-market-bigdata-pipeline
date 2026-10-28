@@ -1,0 +1,6 @@
+pandas
+pyarrow
+requests
+vnstock
+hdfs
+fsspec
